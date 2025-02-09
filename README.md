@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electromechanical Engineering profession and electronics hobbyist<br>my hobby was open source electronics and embedded system development<br>i am learning and seeking support of smart home, home assistant, Node red, Open PLC , fuxa and ESP embedded systems<br>i am ready to support on LISP,  IOT, IIOT, Raspberry, ESP and Home automation <br>
+Electromechanical Engineering profession and electronics hobbyist<br>my hobby was open source electronics and embedded system development<br>i am learning and seeking support in smart home, home assistant, Node red, Open PLC , fuxa and ESP embedded systems<br>i am ready to support on LISP,  IOT, IIOT, Raspberry, ESP and Home automation <br>
 
 
 # 💻 Tech Stack:
